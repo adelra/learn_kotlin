@@ -1,4 +1,4 @@
-# learn_kotlin
+# Learn Kotlin
 
 This repository contains my own codes and comments while learning the Kotlin language, it's a fun compiling language that is similar to Python and Java.
 
