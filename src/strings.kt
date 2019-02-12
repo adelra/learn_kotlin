@@ -4,7 +4,7 @@
 val myBirthday = "Feb 11 1994"
 
 // HOWEVER single quote in Kotlin is a Character!
-val myName = 'Adel' // Error because it is more than one character
+//val myName = 'Adel' // Error because it is more than one character
 val myNameFirstLetter = 'A'
 
 // Raw text:
